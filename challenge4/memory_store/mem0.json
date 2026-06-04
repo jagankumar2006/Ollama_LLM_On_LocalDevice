@@ -1,0 +1,44 @@
+{
+  "docstore": {
+    "6fcca576-ecc6-4064-aa3a-e27059601b63": {
+      "user_id": "user_001",
+      "data": "User confirmed name as Jaganjo",
+      "text_lemmatized": "user confirm jaganjo",
+      "hash": "9b3c19ec6817a8ba150fc9110cf4825b",
+      "created_at": "2026-06-04T04:02:27.576273+00:00",
+      "updated_at": "2026-06-04T04:02:27.576273+00:00",
+      "attributed_to": "assistant"
+    },
+    "41c1455c-0ffd-4ab9-8166-8babe211d2d2": {
+      "user_id": "user_001",
+      "data": "User asked about their name",
+      "text_lemmatized": "user ask",
+      "hash": "538d766400ccc96d224034d1bc4dc5dd",
+      "created_at": "2026-06-04T04:02:27.579099+00:00",
+      "updated_at": "2026-06-04T04:02:27.579099+00:00",
+      "attributed_to": "user"
+    },
+    "000c2e56-ac47-43e4-88d1-c4d4f58de342": {
+      "user_id": "user_001",
+      "data": "User shared age (19) and birth date (January 1, 2004)",
+      "text_lemmatized": "user share age 19 birth date january 1 2004",
+      "hash": "1990eeb6c7496b6a0a5a5d0eb7f112e9",
+      "created_at": "2026-06-04T04:05:59.560972+00:00",
+      "updated_at": "2026-06-04T04:05:59.560972+00:00"
+    },
+    "702b4d9b-030e-4959-ac79-93fa3700990f": {
+      "user_id": "user_001",
+      "data": "Assistant calculated user's correct age (22 years and 5 months) based on provided birth date",
+      "text_lemmatized": "assistant calculate user correct age 22 year 5 month base provide birth date",
+      "hash": "44e045ade8cfb3abd42df2cae866fe88",
+      "created_at": "2026-06-04T04:05:59.571396+00:00",
+      "updated_at": "2026-06-04T04:05:59.571396+00:00"
+    }
+  },
+  "index_to_id": {
+    "0": "6fcca576-ecc6-4064-aa3a-e27059601b63",
+    "1": "41c1455c-0ffd-4ab9-8166-8babe211d2d2",
+    "2": "000c2e56-ac47-43e4-88d1-c4d4f58de342",
+    "3": "702b4d9b-030e-4959-ac79-93fa3700990f"
+  }
+}

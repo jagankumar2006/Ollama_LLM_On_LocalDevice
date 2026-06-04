@@ -1,0 +1,16 @@
+{
+  "docstore": {
+    "6c88d6a8-58d7-49da-8c51-a9052a2541c4": {
+      "data": "Jaganjo",
+      "entity_type": "PROPER",
+      "linked_memory_ids": [
+        "6fcca576-ecc6-4064-aa3a-e27059601b63",
+        "702b4d9b-030e-4959-ac79-93fa3700990f"
+      ],
+      "user_id": "user_001"
+    }
+  },
+  "index_to_id": {
+    "0": "6c88d6a8-58d7-49da-8c51-a9052a2541c4"
+  }
+}

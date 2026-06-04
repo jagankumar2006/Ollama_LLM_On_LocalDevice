@@ -1,0 +1,56 @@
+{
+  "docstore": {
+    "a720489b-1688-4b8a-8ea1-4b807ee8a5c4": {
+      "user_id": "user_001",
+      "data": "User mentioned their name is Jagan",
+      "text_lemmatized": "user mention jagan",
+      "hash": "e0cffb756e82455ebad25c30f3c137da",
+      "created_at": "2026-06-04T03:51:47.035364+00:00",
+      "updated_at": "2026-06-04T03:51:47.035364+00:00",
+      "attributed_to": "user"
+    },
+    "37e921d4-064e-4635-b50d-b00de8ba0dc6": {
+      "user_id": "user_001",
+      "data": "User mentioned their name is Jaganjo",
+      "text_lemmatized": "user mention jaganjo",
+      "hash": "2328d0789dcae38ff01f5aab086ba5e6",
+      "created_at": "2026-06-04T03:54:44.349732+00:00",
+      "updated_at": "2026-06-04T03:54:44.349732+00:00",
+      "attributed_to": "user"
+    },
+    "8fc3c861-338c-46d8-8a69-33869bb82b73": {
+      "user_id": "user_001",
+      "data": "Assistant confirmed the user's name as Jaganjo and inquired about their well-being",
+      "text_lemmatized": "assistant confirm user jaganjo inquire",
+      "hash": "45da030ab292c0c1233537f801ccc158",
+      "created_at": "2026-06-04T03:54:44.358741+00:00",
+      "updated_at": "2026-06-04T03:54:44.358741+00:00",
+      "attributed_to": "assistant"
+    },
+    "34bd7535-b655-487e-882d-c14b0b3fe30a": {
+      "user_id": "user_001",
+      "data": "User asked about their name and the assistant confirmed it as Jaganjo",
+      "text_lemmatized": "user ask assistant confirm jaganjo",
+      "hash": "abe5345371a50591b752a401d25864a9",
+      "created_at": "2026-06-04T03:57:42.336736+00:00",
+      "updated_at": "2026-06-04T03:57:42.336736+00:00",
+      "attributed_to": "user"
+    },
+    "24a523ca-1bce-4605-88df-070421d5f43c": {
+      "user_id": "user_001",
+      "data": "Assistant inquired about the user's well-being after confirming their name as Jaganjo",
+      "text_lemmatized": "assistant inquire user confirm confirming jaganjo",
+      "hash": "0eef2eaec747c87d88a78a62d3b02697",
+      "created_at": "2026-06-04T03:57:42.340476+00:00",
+      "updated_at": "2026-06-04T03:57:42.340476+00:00",
+      "attributed_to": "assistant"
+    }
+  },
+  "index_to_id": {
+    "0": "a720489b-1688-4b8a-8ea1-4b807ee8a5c4",
+    "1": "37e921d4-064e-4635-b50d-b00de8ba0dc6",
+    "2": "8fc3c861-338c-46d8-8a69-33869bb82b73",
+    "3": "34bd7535-b655-487e-882d-c14b0b3fe30a",
+    "4": "24a523ca-1bce-4605-88df-070421d5f43c"
+  }
+}

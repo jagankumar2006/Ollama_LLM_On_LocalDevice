@@ -1,0 +1,35 @@
+{
+  "docstore": {
+    "b7e3ac29-58ef-4352-bdc3-067cbc765322": {
+      "data": "Jagan",
+      "entity_type": "PROPER",
+      "linked_memory_ids": [
+        "a720489b-1688-4b8a-8ea1-4b807ee8a5c4"
+      ],
+      "user_id": "user_001"
+    },
+    "016c8dd2-00e5-4746-b825-87290d7979cc": {
+      "data": "Jaganjo",
+      "entity_type": "PROPER",
+      "linked_memory_ids": [
+        "37e921d4-064e-4635-b50d-b00de8ba0dc6",
+        "8fc3c861-338c-46d8-8a69-33869bb82b73"
+      ],
+      "user_id": "user_001"
+    },
+    "24de8838-8591-4147-a636-77cd31e92eaa": {
+      "data": "Jaganjo",
+      "entity_type": "PROPER",
+      "linked_memory_ids": [
+        "24a523ca-1bce-4605-88df-070421d5f43c",
+        "34bd7535-b655-487e-882d-c14b0b3fe30a"
+      ],
+      "user_id": "user_001"
+    }
+  },
+  "index_to_id": {
+    "0": "b7e3ac29-58ef-4352-bdc3-067cbc765322",
+    "1": "016c8dd2-00e5-4746-b825-87290d7979cc",
+    "2": "24de8838-8591-4147-a636-77cd31e92eaa"
+  }
+}
